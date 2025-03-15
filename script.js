@@ -32,7 +32,7 @@ function carregarProdutos (){
       
         console.log(PegaTrem)}
 
-
+// Função - filtrar por nome 
 
 function filtrarPorNome(){
   
